@@ -1,0 +1,8 @@
+This is my first file in DevOps practise.
+I'm learning GIT version control system and following the best practises in DevOps.
+My Current Skills are:
+1. Docker
+2. Kubernetes
+3. Google Cloud
+4. AWS
+5. Splunk
